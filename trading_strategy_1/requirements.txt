@@ -1,0 +1,14 @@
+alpaca-py
+python-dotenv
+pydantic
+pydantic-settings
+aiosqlite
+redis
+apscheduler
+pandas
+numpy
+websockets
+httpx
+structlog
+tenacity
+orjson
